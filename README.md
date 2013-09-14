@@ -18,7 +18,7 @@ Import the parser first
 ```
 
   
-If you want the <description> from the ClearRead XML file put into an NSString:
+If you want the description tag from the ClearRead XML file put into an NSString:
 
 ```objective-c
 SIMUXCRParser *simuxParser = [[SIMUXCRParser alloc] init];
@@ -26,7 +26,7 @@ NSString *description = [simuxParser getDescription:@"URL of webpage you want to
 ```
 
   
-If you want the <title> from the ClearRead XML file...
+If you want the title tag from the ClearRead XML file...
 
 ```objective-c
 SIMUXCRParser *simuxParser = [[SIMUXCRParser alloc] init];
