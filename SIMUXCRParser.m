@@ -40,6 +40,7 @@
     return description;
 }
 
+//The other function of the SIMUXCR is to extract the title
 -(NSString*)getTitle:(NSString*)HTMLString
 {
     [[UIApplication sharedApplication] setNetworkActivityIndicatorVisible:YES];
