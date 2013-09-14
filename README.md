@@ -7,7 +7,7 @@ NAME:
 
 SYNOPSIS:
 This is a simple Objective-C wrapper to parse results in XML from the CleanRead API
-The CleanRead API is available here: http://api.thequeue.org/v1/
+The ClearRead API is available here: http://api.thequeue.org/v1/
 This wrapper relies on the NSXMLParser.
 
 USAGE:
