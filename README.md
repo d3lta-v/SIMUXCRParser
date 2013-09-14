@@ -47,4 +47,4 @@ StatiX Industries:
 FINAL NOTE:  
 Yes I wrote it in the format of a UNIX command manual page
   
-Copyright (C) StatiX Industries 2013 (Under the Creative-Commons Attribution (CC-BY) license)
+Copyright (C) StatiX Industries 2013 (Under the MIT license)
